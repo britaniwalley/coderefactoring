@@ -3,4 +3,4 @@ For this code refactoring project, I went into the <a href="https://britaniwalle
 
 After the HTML was edited, I addressed the CSS. To do this I went in and first changed any styling calls that had been changed in the HTML. Then I went through and combined any styling that applied to multiple classes. After that, I went in and commented all necessary sections of the styling so that it could be reviewed later. I triple checked that this worked through both provided links and GitHub. Once this was done, I created my ReadMe.md and submitted!
 
-<img src="./Bootcamp/Homework/week1/coderefactoring/Horiseon.pdf"/>
+<img width="550" alt="Screen Shot 2020-12-20 at 6 37 10 PM" src="https://user-images.githubusercontent.com/74206593/102730637-925cb480-42f2-11eb-94d5-fd7ae91136cc.png">
